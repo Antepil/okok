@@ -1,2 +1,10 @@
-print("hello world")
+
+print("dawdawd")
+
+print("dawdawd")
+print("dawdawd")
+
+print("dawdawd")
+print("dawdawd")
+
 print("dawdawd")
